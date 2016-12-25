@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.ocowagames.league_of_legends_item_price_guesser.MainActivity">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:background="@drawable/title_background"
+        android:weightSum="8">
+
+        <TextView
+            android:text="@string/title_text"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/textView"
+            android:layout_weight="5"
+            android:fontFamily="sans-serif"
+            android:background="@mipmap/shop"
+            android:gravity="center"
+            android:textSize="25sp"
+            android:textAllCaps="false"
+            android:textAlignment="center"
+            android:textColor="@android:color/background_dark" />
+
+        <Button
+            android:text="@string/button_order"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/my_button_bg"
+            android:id="@+id/button_order"
+            android:layout_weight="1"/>
+
+        <Button
+            android:text="@string/button_roulette"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/button_roulette"
+            android:background="@drawable/my_button_bg"
+            android:layout_weight="1"/>
+
+        <Button
+            android:text="@string/button_building"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/button_building"
+            android:background="@drawable/my_button_bg"
+            android:layout_weight="1"/>
+    </LinearLayout>
+</RelativeLayout>

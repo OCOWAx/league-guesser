@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">League-of-Legends-Item-price-guesser</string>
+    <string name="title_text">League of Legends Item Price Guesser!\n\n\n\n\nChoose Your GameMode</string>
+    <string name="button_order">In Price Order</string>
+    <string name="button_roulette">Roulette(random items)</string>
+    <string name="button_building">With Build Structure</string>
+    <string name="question">What is this item\'s price?</string>
+    <string name="score">Your score is:</string>
+</resources>

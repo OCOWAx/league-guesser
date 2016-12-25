@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Derek\AndroidStudioProjects\League-of-Legends-Item-price-guesser\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="C:\Users\Derek\AndroidStudioProjects\League-of-Legends-Item-price-guesser\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.0.1_efa7d5faed48d38c44c18429c7612d215393b6f4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Derek\AndroidStudioProjects\League-of-Legends-Item-price-guesser\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="C:\Users\Derek\AndroidStudioProjects\League-of-Legends-Item-price-guesser\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_74aeecae3d579d4ad2c2516b8b119eb08e148c84\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Derek\AndroidStudioProjects\League-of-Legends-Item-price-guesser\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="C:\Users\Derek\AndroidStudioProjects\League-of-Legends-Item-price-guesser\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.0.1_09bc65ce0e8a6311105884b618b7c2fd7c1435e4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Derek\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.1\support-annotations-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="C:\Users\Derek\AndroidStudioProjects\League-of-Legends-Item-price-guesser\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.0.1_40b607335aae6a8dd168f460520d156aff0af38c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Derek\AndroidStudioProjects\League-of-Legends-Item-price-guesser\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="C:\Users\Derek\AndroidStudioProjects\League-of-Legends-Item-price-guesser\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.0.1_4da0b33484d194febb43599375dc605d3547c3ae\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Derek\AndroidStudioProjects\League-of-Legends-Item-price-guesser\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="C:\Users\Derek\AndroidStudioProjects\League-of-Legends-Item-price-guesser\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.0.1_5afd16f82e0e2c854c7fee363bb334e511ee63b4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Derek\AndroidStudioProjects\League-of-Legends-Item-price-guesser\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="C:\Users\Derek\AndroidStudioProjects\League-of-Legends-Item-price-guesser\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.0.1_eb258aba769c356392b9b4e0700eb7163b1331f4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Derek\AndroidStudioProjects\League-of-Legends-Item-price-guesser\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="C:\Users\Derek\AndroidStudioProjects\League-of-Legends-Item-price-guesser\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_9a48fcfb0d369e1aac44a69738f55edfe15b90e3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Derek\AndroidStudioProjects\League-of-Legends-Item-price-guesser\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="C:\Users\Derek\AndroidStudioProjects\League-of-Legends-Item-price-guesser\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.0.1_49458b332213f934e28d76795dded8b6d9381177\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Derek\AndroidStudioProjects\League-of-Legends-Item-price-guesser\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="211872d9a7c0a23bdbe1717f43e0452940d735f3">
+        <dex dex="C:\Users\Derek\AndroidStudioProjects\League-of-Legends-Item-price-guesser\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_e6c5e80090328fa6df6e39e587720125d9690e81\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Derek\AndroidStudioProjects\League-of-Legends-Item-price-guesser\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="1b6c4cddc03faf8d345c7ef4cc5a4dee516fdf73">
+        <dex dex="C:\Users\Derek\AndroidStudioProjects\League-of-Legends-Item-price-guesser\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_fb38b19631b44c2e0d6927474032d80749f9d82e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Derek\AndroidStudioProjects\League-of-Legends-Item-price-guesser\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Derek\AndroidStudioProjects\League-of-Legends-Item-price-guesser\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.0.1_9c56422edb99dda8373a1accd8c9ffd18deaaeaf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Derek\AndroidStudioProjects\League-of-Legends-Item-price-guesser\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="C:\Users\Derek\AndroidStudioProjects\League-of-Legends-Item-price-guesser\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.0.1_ba4f4248b69fda84c4abfaa03b1eb4d5cba351a3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Derek\AndroidStudioProjects\League-of-Legends-Item-price-guesser\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="C:\Users\Derek\AndroidStudioProjects\League-of-Legends-Item-price-guesser\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_8bb8c015733f41e0c5619d8783962ed2d1d0226e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Derek\AndroidStudioProjects\League-of-Legends-Item-price-guesser\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="C:\Users\Derek\AndroidStudioProjects\League-of-Legends-Item-price-guesser\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.0.1_7525213ac60c134da52ea1956117993118a5cb4e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Derek\AndroidStudioProjects\League-of-Legends-Item-price-guesser\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="C:\Users\Derek\AndroidStudioProjects\League-of-Legends-Item-price-guesser\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_756370f1f626905d8b3a374532596f96d501607d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Derek\AndroidStudioProjects\League-of-Legends-Item-price-guesser\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="C:\Users\Derek\AndroidStudioProjects\League-of-Legends-Item-price-guesser\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_4fa27f9ac8ec47f66ed7c5fe4bb4738f58c0042e\classes.dex" />
+    </item>
+
+</items>
