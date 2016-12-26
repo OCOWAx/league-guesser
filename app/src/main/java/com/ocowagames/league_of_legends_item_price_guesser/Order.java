@@ -45,8 +45,10 @@ public class Order extends AppCompatActivity implements View.OnClickListener{
         items = new Item[157];
         Item healthpotion = new Item(R.mipmap.health_potion_item,50);
         Item refillablepotion = new Item(R.mipmap.refillable_potion_item,150);
+        Item abyssalscepter = new Item(R.mipmap.abyssal_scepter_item,2750);
         items[0] = healthpotion;
         items[1] = refillablepotion;
+        items[2] = abyssalscepter;
     }
 
     private void nextItem(){
